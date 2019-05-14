@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Vivek  to synechron
+=======
+Hello Vivek
+>>>>>>> training
