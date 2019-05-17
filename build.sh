@@ -3,5 +3,6 @@ echo "Welcome to Synechron"
 echo "Hello world"
 hello
 date
-df 
+df
+ls
 
